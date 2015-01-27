@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<language title="Tiếng Việt" date_format="j/n/y" time_format="H:i" decimal_point="." thousands_separator="," language_code="vi-VN" text_direction="LTR" addon_id="XenForo">
+<language title="Tiếng Việt - Team XenForum Việt Nam" date_format="j/n/y" time_format="H:i" decimal_point="." thousands_separator="," language_code="vi-VN" text_direction="LTR" addon_id="XenForo">
   <phrase title="1_day_ago" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Một ngày trước]]></phrase>
   <phrase title="1_month_ago" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Một tháng trước]]></phrase>
   <phrase title="1_more_message" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[1 tin nhắn thêm]]></phrase>
@@ -5830,7 +5830,7 @@ Associating with Twitter makes it easier to log in to the forum or share content
   <phrase title="your_profile" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[Trang cá nhân]]></phrase>
   <phrase title="your_profile_page" addon_id="XenForo" version_id="1000470" version_string="1.0.4"><![CDATA[Trang hồ sơ của bạn]]></phrase>
   <phrase title="your_profile_posts" addon_id="XenForo" version_id="1010270" version_string="1.1.2"><![CDATA[Bài viết trong hồ sơ của bạn]]></phrase>
-  <phrase title="your_rating_has_been_recorded" addon_id="XenForo" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[Your rating has been recorded.]]></phrase>
+  <phrase title="your_rating_has_been_recorded" addon_id="XenForo" version_id="1" version_string="1.0.0 Alpha 1"><![CDATA[Đánh giá của bạn đã được ghi nhận.]]></phrase>
   <phrase title="your_server_could_not_connect_to_facebook" addon_id="XenForo" version_id="1000035" version_string="1.0.0 Beta 5"><![CDATA[Your server could not connect to Facebook (https://graph.facebook.com). Try again later. If the issue persists, contact your host.]]></phrase>
   <phrase title="your_signature_is_x_characters_too_long" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Your signature is {count} character(s) too long.]]></phrase>
   <phrase title="your_signature_is_x_liness_too_long" addon_id="XenForo" version_id="1020010" version_string="1.2.0 Alpha"><![CDATA[Your signature is {count} line(s) too long.]]></phrase>
